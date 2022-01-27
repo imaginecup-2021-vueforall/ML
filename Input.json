@@ -1,0 +1,78 @@
+{
+  "Inputs": {
+    "WebServiceInput0": [
+      { "Id": 1, 
+        "Column1": 1,
+        "Age": 30,
+        "Sex": "Woman",
+        "Gender": "Male",
+        "Ethnicity": "Black or African American",
+        "HoursPlayedWeekly": 11,
+        "MostUsedPlatform": "Sony PSP",
+        "FavouriteGame": "Kane & Lynch: Dead Men",
+        "FavouriteGenre": "Action",
+        "ColourAnomaly": "Tritan-A",
+        "ColourAnomalyStrength": "weak"
+        
+      },
+      {
+        "Id": 2, 
+        "Column1": 2,
+        "Age": 19,
+        "Sex": "Woman",
+        "Gender": "Female",
+        "Ethnicity": "White",
+        "HoursPlayedWeekly": 9,
+        "MostUsedPlatform": "X360",
+        "FavouriteGame": "MLB 07: The Show",
+        "FavouriteGenre": "Sports",
+        "ColourAnomaly": "Deuter-A",
+        "ColourAnomalyStrength": "strong"
+      },
+      {
+        "Id": 3, 
+        "Column1": 3,
+        "Age": 39,
+        "Sex": "Woman",
+        "Gender": "Female",
+        "Ethnicity": "Black or African American",
+        "HoursPlayedWeekly": 4,
+        "MostUsedPlatform": "X360",
+        "FavouriteGame": "Phoenix Wright: Ace Attorney",
+        "FavouriteGenre": "Adventure",
+        "ColourAnomaly": "Deuter-A",
+        "ColourAnomalyStrength": "med"
+        
+      },
+      {
+        "Id": 4, 
+        "Column1": 4,
+        "Age": 32,
+        "Sex": "Man",
+        "Gender": "Other",
+        "Ethnicity": "Native Hawaiian or Other Pacific Islander",
+        "HoursPlayedWeekly": 10,
+        "MostUsedPlatform": "X360",
+        "FavouriteGame": "Disgaea: Afternoon of Darkness",
+        "FavouriteGenre": "Role-Playing (RPG)",
+        "ColourAnomaly": "Norm",
+        "ColourAnomalyStrength": "NA"
+      },
+      {
+        "Id": 5, 
+        "Column1": 5,
+        "Age": 15,
+        "Sex": "Woman",
+        "Gender": "Female",
+        "Ethnicity": "Indigenous Peoples",
+        "HoursPlayedWeekly": 5,
+        "MostUsedPlatform": "Nintendo Wii",
+        "FavouriteGame": "NHL 2K9",
+        "FavouriteGenre": "Sports",
+        "ColourAnomaly": "Deuter-A",
+        "ColourAnomalyStrength": "strong"
+      }
+    ]
+  },
+  "GlobalParameters": {}
+}
